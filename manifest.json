@@ -5,6 +5,6 @@
 	"minAppVersion": "0.15.0",
 	"description": "Automatically renames files by replacing spaces with dashes.",
 	"author": "Harris Hussain",
-	"authorUrl": "",
+	"authorUrl": "https://github.com/harrishussain24",
 	"isDesktopOnly": false
 }
