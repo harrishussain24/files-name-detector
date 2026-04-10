@@ -30,4 +30,4 @@ npm run build   # production build
 
 ## Author
 
-abdullahlatif
+Harris Hussain
