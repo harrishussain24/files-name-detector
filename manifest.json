@@ -1,0 +1,10 @@
+{
+	"id": "files-name-detector",
+	"name": "Files Name Detector",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically renames files by replacing spaces with dashes, both on creation and for existing files.",
+	"author": "abdullahlatif",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
